@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : C:\Users\智障狗\Desktop\中二辉光管\硬件\PCB\PCB_Project\PCB1.PcbDoc
+Date         : 2018/4/26
+Time         : 20:03:35
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3797.638milsx3149.606mils
+    Components on board, 74
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 251
+    Connections routed, 251
+    Connections remaining, 0
+count : 4

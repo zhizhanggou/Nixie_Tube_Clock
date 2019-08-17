@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PB0 Pin=U1-19
+Added Pin To Net: NetName=VCC-3.3EX Pin=P12-1
+Added Pin To Net: NetName=VCC-3.3EX Pin=P13-1
+Added Pin To Net: NetName=VCC-3.3EX Pin=U2-20
+Added Pin To Net: NetName=VCC-3.3EX Pin=U5-20
+Added Pin To Net: NetName=PB1 Pin=U1-19
+Added Net: Name=PB1
+Added Room: Name=Sheet1
